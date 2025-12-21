@@ -1,0 +1,65 @@
+{
+  "app": {
+    "title": "Super System"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "bank": "Bank",
+    "calendar": "Calendar",
+    "project": "Project",
+    "profile": "User Profile",
+    "settings": "Settings",
+    "exit": "Exit"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "search_placeholder": "Search here...",
+    "balance": "Balance",
+    "income": "Income",
+    "spending": "Spending",
+    "savings": "Savings",
+    "revenue_placeholder": "Revenue (chart placeholder)",
+    "total_earning_placeholder": "Total earning (placeholder)",
+    "coverage_placeholder": "Coverage (placeholder)",
+    "method_placeholder": "Method (placeholder)",
+    "latest_transactions": "Latest Transactions"
+  },
+  "bank": {
+    "title": "BANK",
+    "total": "Total",
+    "actions": {
+      "add": "Add",
+      "remove": "Remove",
+      "export_csv": "Export CSV"
+    },
+    "table": {
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "category": "Category",
+      "id": "id"
+    },
+    "add_window": {
+      "title": "Add transaction",
+      "type": "Type",
+      "category_name": "Category/Name",
+      "amount": "Amount"
+    },
+    "errors": {
+      "enter_category": "Enter category/name.",
+      "amount_number": "Amount must be a number, e.g. 12.50"
+    },
+    "export": {
+      "filetype_csv": "CSV"
+    }
+  },
+  "settings": {
+    "title": "SETTINGS",
+    "language": "Language",
+    "theme": "Theme (Light/Dark)"
+  },
+  "common": {
+    "add": "Add",
+    "cancel": "Cancel"
+  }
+}

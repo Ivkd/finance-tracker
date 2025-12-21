@@ -1,0 +1,10 @@
+services:
+  tkinter:
+    image: postgres:18
+    environment:
+      POSTGRES_DB: ${DBNAME_DB}
+      POSTGRES_USER: ${NAME_DB}
+      POSTGRES_PASSWORD: ${}
+    ports:
+      - "5433:5433"
+

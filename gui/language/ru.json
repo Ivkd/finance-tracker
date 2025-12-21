@@ -1,0 +1,65 @@
+{
+  "app": {
+    "title": "Супер Система"
+  },
+  "nav": {
+    "dashboard": "Панель",
+    "bank": "Банк",
+    "calendar": "Календарь",
+    "project": "Проект",
+    "profile": "Профиль",
+    "settings": "Настройки",
+    "exit": "Выход"
+  },
+  "dashboard": {
+    "title": "Панель",
+    "search_placeholder": "Искать...",
+    "balance": "Баланс",
+    "income": "Доход",
+    "spending": "Расходы",
+    "savings": "Сбережения",
+    "revenue_placeholder": "Выручка (заглушка графика)",
+    "total_earning_placeholder": "Общий доход (заглушка)",
+    "coverage_placeholder": "Охват (заглушка)",
+    "method_placeholder": "Метод (заглушка)",
+    "latest_transactions": "Последние транзакции"
+  },
+  "bank": {
+    "title": "БАНК",
+    "total": "Итого",
+    "actions": {
+      "add": "Добавить",
+      "remove": "Удалить",
+      "export_csv": "Экспорт CSV"
+    },
+    "table": {
+      "date": "Дата",
+      "description": "Описание",
+      "amount": "Сумма",
+      "category": "Категория",
+      "id": "id"
+    },
+    "add_window": {
+      "title": "Добавить транзакцию",
+      "type": "Тип",
+      "category_name": "Категория/Название",
+      "amount": "Сумма"
+    },
+    "errors": {
+      "enter_category": "Введите категорию/название.",
+      "amount_number": "Сумма должна быть числом, например 12.50"
+    },
+    "export": {
+      "filetype_csv": "CSV"
+    }
+  },
+  "settings": {
+    "title": "НАСТРОЙКИ",
+    "language": "Язык",
+    "theme": "Тема (Светлая/Тёмная)"
+  },
+  "common": {
+    "add": "Добавить",
+    "cancel": "Отмена"
+  }
+}
